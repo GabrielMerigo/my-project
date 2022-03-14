@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_page_concept_abouts",
+  "info": {
+    "displayName": "concept_about",
+    "icon": "archive"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    }
+  }
+}
