@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_page_teches",
+  "info": {
+    "displayName": "tech",
+    "icon": "hammer"
+  },
+  "options": {},
+  "attributes": {
+    "icon": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false,
+      "required": true
+    },
+    "title": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
