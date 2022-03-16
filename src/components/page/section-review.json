@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_page_section_reviews",
+  "info": {
+    "displayName": "SectionReview",
+    "icon": "eye"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "boxiesReview": {
+      "displayName": "boxsReview",
+      "type": "component",
+      "repeatable": true,
+      "component": "page.boxs-review",
+      "min": 4
+    }
+  }
+}

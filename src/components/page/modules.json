@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_page_modules",
+  "info": {
+    "displayName": "modules",
+    "icon": "align-center"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "subtitle": {
+      "type": "string"
+    },
+    "description": {
+      "type": "richtext",
+      "required": true
+    }
+  }
+}
